@@ -4,9 +4,10 @@ Estes es un proyecto o un ejemplo que como se realiza una maquetacion utilizando
 
 todo esto realizado en la clase del intructor del SENA Edwin Grozo.
 
-Para ver el proyecto desplegado en la web dale click al siguiente enlace: https://maquetado-pagina-web-ed-travel.vercel.app/
+Para ver el proyecto desplegado en la web dale click al siguiente enlace: https://proyecto-atlas-lime.vercel.app/
 
 **Gracias.**
 
 ## vista previa:
-![Ed-travel](https://github.com/Jincoxx/Maquetado-Pagina-Web-Ed-travel/assets/108629591/b670472e-79f9-415f-a23e-eb12043a5b59)
+
+![Atlas](https://github.com/Jincoxx/Maquetado-Pagina-Web-Ed-travel/assets/108629591/c1d6ba1f-b492-497f-ac52-aa4da19321b7)
